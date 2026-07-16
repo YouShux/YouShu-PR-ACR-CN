@@ -1,29 +1,29 @@
 {
-    "author": "YouShu",
-    "version": "1.0.0.0",
-    "description": "支持日随、高难，高难记得写轴，可自定义组合热键、模式、QT风格等等，自行探索！更新内容前往标签页的开发测试或DC查看，有任何问题或需求，DC同名贴找YouShu反馈哦!",
-    "supportedJobs": [
-        {
-            "job": "WHM",
-            "contentScope": "ALL"
-        },
-        {
-            "job": "SCH",
-            "contentScope": "ALL"
-        },
-        {
-            "job": "AST",
-            "contentScope": "ALL"
-        },
-        {
-            "job": "SGE",
-            "contentScope": "ALL"
-        }
-    ],
-    "apiVersion": 15,
-    "referencePromeVersion": "1.5.5.2",
-    "downloadUrl": "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-CN/main/YouShu.zip",
-    "sourceRepositoryUrl": "",
-    "sponsorUrl": "",
-    "sha256": "e2bdd52e5484ad6e614850ba267df720adbd284e901063c79fd545bf2307eb3d"
+    "author":  "YouShu",
+    "version":  "1.0.0.0",
+    "description":  "支持日随、高难，高难记得写轴，可自定义组合热键、模式、QT风格等等，自行探索！更新内容前往标签页的开发测试或DC查看，有任何问题或需求，DC同名贴找YouShu反馈哦!",
+    "supportedJobs":  [
+                          {
+                              "job":  "WHM",
+                              "contentScope":  "ALL"
+                          },
+                          {
+                              "job":  "SCH",
+                              "contentScope":  "ALL"
+                          },
+                          {
+                              "job":  "AST",
+                              "contentScope":  "ALL"
+                          },
+                          {
+                              "job":  "SGE",
+                              "contentScope":  "ALL"
+                          }
+                      ],
+    "apiVersion":  15,
+    "referencePromeVersion":  "1.5.5.2",
+    "downloadUrl":  "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-CN/main/YouShu.zip",
+    "sourceRepositoryUrl":  "",
+    "sponsorUrl":  "",
+    "sha256":  "062fea14645ccba6e253c59e987db6fcc6c60fec8f3ebed95398ccce087b111c"
 }
