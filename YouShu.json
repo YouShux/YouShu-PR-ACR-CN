@@ -1,6 +1,6 @@
 {
   "author": "YouShu",
-  "version": "1.0.1.7",
+  "version": "1.0.1.8",
   "description": "支持日随、高难，高难记得写轴，可自定义组合热键、模式、QT风格等等，自行探索！更新内容前往标签页的开发测试或DC查看，有任何问题或需求，DC同名贴找YouShu反馈哦!",
   "supportedJobs": [
     {
@@ -21,9 +21,9 @@
     }
   ],
   "apiVersion": 15,
-  "referencePromeVersion": "1.5.9.2",
+  "referencePromeVersion": "1.5.9.3",
   "downloadUrl": "https://raw.githubusercontent.com/YouShux/YouShu-PR-ACR-CN/main/YouShu.zip",
   "sourceRepositoryUrl": "",
   "sponsorUrl": "",
-  "sha256": "3c0816e7a1c2fade87385d552434de6e2b7849f405f92356cef9544644be7f2b"
+  "sha256": "b614ae6b45f1de91e35f00337c0431436ded648ede5b191e09b5eccb94c861c4"
 }
